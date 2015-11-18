@@ -1,3 +1,3 @@
 <?php
 
-    echo "Hello World tous les copains !";
+    echo "Hello World tous les copains du monde !";
